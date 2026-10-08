@@ -3,7 +3,7 @@
 ### 💻 Full-Stack Web Developer | Computer Science Student
 
 *Web Development | Software Engineering | UI/UX Enthusiast*
-
+full stack developer
 ---
 
 ## 💫 About Me
